@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tinkerled/todolist/static/css/main.6cd74b9d.chunk.css",
+    "main.js": "/Tinkerled/todolist/static/js/main.254c8c92.chunk.js",
+    "main.js.map": "/Tinkerled/todolist/static/js/main.254c8c92.chunk.js.map",
+    "runtime-main.js": "/Tinkerled/todolist/static/js/runtime-main.81813e08.js",
+    "runtime-main.js.map": "/Tinkerled/todolist/static/js/runtime-main.81813e08.js.map",
+    "static/js/2.9d9e6e74.chunk.js": "/Tinkerled/todolist/static/js/2.9d9e6e74.chunk.js",
+    "static/js/2.9d9e6e74.chunk.js.map": "/Tinkerled/todolist/static/js/2.9d9e6e74.chunk.js.map",
+    "index.html": "/Tinkerled/todolist/index.html",
+    "precache-manifest.7a63a8fa6c9b027ef661de06ef17f0fd.js": "/Tinkerled/todolist/precache-manifest.7a63a8fa6c9b027ef661de06ef17f0fd.js",
+    "service-worker.js": "/Tinkerled/todolist/service-worker.js",
+    "static/css/main.6cd74b9d.chunk.css.map": "/Tinkerled/todolist/static/css/main.6cd74b9d.chunk.css.map",
+    "static/js/2.9d9e6e74.chunk.js.LICENSE": "/Tinkerled/todolist/static/js/2.9d9e6e74.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81813e08.js",
+    "static/js/2.9d9e6e74.chunk.js",
+    "static/css/main.6cd74b9d.chunk.css",
+    "static/js/main.254c8c92.chunk.js"
+  ]
+}
